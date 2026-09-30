@@ -1,45 +1,45 @@
 ---
 layout: home
-title: Thingking Machine
+title: Abstract Mind
 ---
-# Thingking Machine
+# Abstract Mind
 
 <pre>
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Abstract-Mind (meta)](https://abstract-mind.github.io/meta/)
 
-[Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+[Abstract-Mind (gemini)](https://abstract-mind.github.io/gemini/)
 
-[Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+[Abstract-Mind (geminit)](https://abstract-mind.github.io/geminit/)
 
-[Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Abstract-Mind (openai)](https://abstract-mind.github.io/openai/)
 
-[Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
+[Abstract-Mind (openaic)](https://abstract-mind.github.io/openaic/)
 
-[Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
+[Abstract-Mind (oaio)](https://abstract-mind.github.io/oaio/)
 
-[Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
+[Abstract-Mind (grok)](https://abstract-mind.github.io/grok/)
 
-[Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
+[Abstract-Mind (grokf)](https://abstract-mind.github.io/grokf/)
 
-[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
+[Abstract-Mind (grokc)](https://abstract-mind.github.io/grokc/)
 
-[Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
+[Abstract-Mind (fireworks)](https://abstract-mind.github.io/fireworks/)
 
-[Thingking-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
+[Abstract-Mind (fireworksr)](https://abstract-mind.github.io/fireworksr/)
 
-[Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
+[Abstract-Mind (fireworkc)](https://abstract-mind.github.io/fireworkc/)
 
-[Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
+[Abstract-Mind (depsek)](https://abstract-mind.github.io/depsek/)
 
-[Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
+[Abstract-Mind (depsekc)](https://abstract-mind.github.io/depsekc/)
 
-[Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
+[Abstract-Mind (depsekr)](https://abstract-mind.github.io/depsekr/)
 
-[Thingking-Machine (depsekrp)](https://thingking-machine.github.io/depsekrp/)
+[Abstract-Mind (depsekrp)](https://abstract-mind.github.io/depsekrp/)
 
 
 
-Thingking-Machine is just one of participants of the [Multilogue](multilogue)
+Abstract-Mind is just one of participants of the [Multilogue](multilogue)

@@ -1,1 +1,1 @@
-### Thingking Machine
+### Abstract mind
